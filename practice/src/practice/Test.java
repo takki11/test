@@ -6,7 +6,7 @@ public class Test {
 
         System.out.println("Hello Java World");
         System.out.println("Hello Java World");
-        System.out.println("Hello Java");
+        System.out.println("Hello Java World");
         System.out.println("Hello Java");
     }
 
